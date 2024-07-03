@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
     },
     title: {
 
+
     },
     image: {
         height: 100
